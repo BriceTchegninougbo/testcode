@@ -1,0 +1,12 @@
+C:\Users\susajoshi\Desktop\WithCLI\bin\Release\net6.0\WithCLI.deps.json
+C:\Users\susajoshi\Desktop\WithCLI\bin\Release\net6.0\WithCLI.dll
+C:\Users\susajoshi\Desktop\WithCLI\bin\Release\net6.0\ref\WithCLI.dll
+C:\Users\susajoshi\Desktop\WithCLI\bin\Release\net6.0\WithCLI.pdb
+C:\Users\susajoshi\Desktop\WithCLI\obj\Release\net6.0\WithCLI.csproj.AssemblyReference.cache
+C:\Users\susajoshi\Desktop\WithCLI\obj\Release\net6.0\WithCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susajoshi\Desktop\WithCLI\obj\Release\net6.0\WithCLI.AssemblyInfoInputs.cache
+C:\Users\susajoshi\Desktop\WithCLI\obj\Release\net6.0\WithCLI.AssemblyInfo.cs
+C:\Users\susajoshi\Desktop\WithCLI\obj\Release\net6.0\WithCLI.csproj.CoreCompileInputs.cache
+C:\Users\susajoshi\Desktop\WithCLI\obj\Release\net6.0\WithCLI.dll
+C:\Users\susajoshi\Desktop\WithCLI\obj\Release\net6.0\ref\WithCLI.dll
+C:\Users\susajoshi\Desktop\WithCLI\obj\Release\net6.0\WithCLI.pdb

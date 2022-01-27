@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>Testing.NuGet.Susan</PackageId>
+    <Authors>Testing</Authors>
+    <Company>Testing</Company>
+    <Description>This is just a test!</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Logging, Logs, Logger</PackageTags>
+    <!-- <RepositoryURL></RepositoryURL> -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
