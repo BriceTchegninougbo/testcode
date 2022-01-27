@@ -8,6 +8,7 @@
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <description>This is just a test!</description>
     <tags>Logging, Logs, Logger</tags>
+    <repository url="https://github.com/Susanbdr/NuGet_Test" />
     <dependencies>
       <group targetFramework="net6.0" />
     </dependencies>
