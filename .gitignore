@@ -1,1 +1,2 @@
-nuget.config
+**/packages/*
+!**/packages/repositories.config
